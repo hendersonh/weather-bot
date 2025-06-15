@@ -1,0 +1,10 @@
+# weather-bot-adk/.gitignore
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Ignore .env file in root_agent directory
+root_agent/.env
