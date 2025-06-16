@@ -5,6 +5,11 @@ This file provides a high-level overview...
 *
 [2025-06-13 22:15:11] - # Weather Bot Application
 
+GITHUB REPOSITORY INFORMATION
+- user name: hendersonh
+- repository url: origin  https://github.com/hendersonh/weather-bot.git
+- repository name: weather-bot
+
 ## Project Structure
 - root_agent/
   - __init__.py (Package initialization)
